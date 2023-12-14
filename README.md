@@ -13,9 +13,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3dwh33lb4rrow&show_icons=true&theme=shadow_red&hide_border=true&border_radius=8layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- #### Need to finish pinning repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r3dwh33lb4rrow&repo=r3dwh33lb4rrow)&theme=shadow_red](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- Socials and Links -->
-#### Socials and Links
-- [Website](https://r3dwh33lb4rrow.gitbook.io/r3dwh33lb4rrow/) 💻
-- [Discord](https://discordapp.com/users/861758608810573835) 
-- [HackTheBox](https://app.hackthebox.com/profile/1338701)
